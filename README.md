@@ -1,6 +1,6 @@
 # Insurance Claims SQL Analysis  
 
-This project analyzes an insurance claims dataset to demonstrate SQL skills in data quality checks, descriptive analytics, and business insights.
+This project analyzes an insurance claims dataset to demonstrate SQL skills in data quality checks, descriptive analytics, and business insights. The goal was to explore the data, identify issues such as missing or inconsistent values, and extract meaningful patterns about claims, customers, and regions. Through a combination of queries, I was able to practice real-world techniques for cleaning, analyzing, and interpreting structured data.
 ---
 
 ## Dataset  
