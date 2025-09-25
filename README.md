@@ -34,7 +34,19 @@ The dataset came as a CSV file and includes:
   - C003 = $5,000  
   - C001 = $1,200  
 
-## Files in Repo  
+## Screenshots
+
+### Total Claims by Month  
+![Total Claims](images/total_claims.png)
+
+### Average Claim Amount per Customer  
+![Average Claim](images/avg_claim.png)
+
+### Payouts by Region  
+![Region Payouts](images/region_payouts.png)
+
+
+# Files in Repo  
 - `insurance_claims_analysis.sql` → SQL queries  
 - `acer_america_insurance_claims.csv` → dataset  
 - `README.md` → this project summary  
