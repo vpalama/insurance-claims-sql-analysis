@@ -37,13 +37,13 @@ The dataset came as a CSV file and includes:
 ## Screenshots
 
 ### Total Claims by Month  
-![Total Claims](images/total_claims.png)
+![Total Claims](total_claims.png)  
 
 ### Average Claim Amount per Customer  
-![Average Claim](images/avg_claim.png)
+![Average Claim](avg_claim.png)  
 
 ### Payouts by Region  
-![Region Payouts](images/region_payouts.png)
+![Region Payouts](region_payouts.png)  
 
 
 # Files in Repo  
