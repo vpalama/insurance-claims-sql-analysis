@@ -1,9 +1,6 @@
 # Insurance Claims SQL Analysis  
 
-This is a project I worked on to practice and showcase my SQL skills.  
-I used a dummy dataset modeled for Acer America’s insurance claims and analyzed it in MySQL Workbench.  
-The goal was to import raw data, check its quality, and run queries that give useful insights about claims, customers, and regions.  
-
+This project analyzes an insurance claims dataset to demonstrate SQL skills in data quality checks, descriptive analytics, and business insights.
 ---
 
 ## Dataset  
